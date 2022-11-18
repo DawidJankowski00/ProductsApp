@@ -1,0 +1,38 @@
+[
+    {
+      "Name": "Ser cheddar Mlekovita",
+      "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+      "Description": "Ser cheddar od Mlekovita jest idealnym dodatkiem do pizzy i zapiekanek",
+      "Calories": 371,
+      "Fat": 31,
+      "Carbohydrates": 0.01,
+      "Sugar": 0.01,
+      "Fiber": null,
+      "Protein": 25,
+      "Salt": 1.7
+    },
+    {
+        "Name": "Cola",
+        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+        "Description": "Coca-Cola to napoj gazowany zawierajacy spora ilosc cukru",
+        "Calories": 42,
+        "Fat": null,
+        "Carbohydrates": 10.6,
+        "Sugar": 10.6,
+        "Fiber": null,
+        "Protein": 0.01,
+        "Salt": 0.01
+      },
+      {
+        "Name": "Losos atlantycki",
+        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+        "Description": "Losos atlantycki filet",
+        "Calories": 171,
+        "Fat": 10,
+        "Carbohydrates": 0.5,
+        "Sugar": 0.5,
+        "Fiber": null,
+        "Protein": 20,
+        "Salt": 3
+      }
+  ]

@@ -1,37 +1,37 @@
 [
     {
       "Name": "Ser cheddar Mlekovita",
-      "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+      "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
       "Description": "Ser cheddar od Mlekovita jest idealnym dodatkiem do pizzy i zapiekanek",
       "Calories": 371,
       "Fat": 31,
       "Carbohydrates": 0.01,
       "Sugar": 0.01,
-      "Fiber": null,
+      "Fiber": 0,
       "Protein": 25,
       "Salt": 1.7
     },
     {
         "Name": "Cola",
-        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/cola.jfif",
         "Description": "Coca-Cola to napoj gazowany zawierajacy spora ilosc cukru",
         "Calories": 42,
-        "Fat": null,
+        "Fat": 0,
         "Carbohydrates": 10.6,
         "Sugar": 10.6,
-        "Fiber": null,
+        "Fiber": 0,
         "Protein": 0.01,
         "Salt": 0.01
       },
       {
         "Name": "Losos atlantycki",
-        "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/losos.jfif",
         "Description": "Losos atlantycki filet",
         "Calories": 171,
         "Fat": 10,
         "Carbohydrates": 0.5,
         "Sugar": 0.5,
-        "Fiber": null,
+        "Fiber": 0,
         "Protein": 20,
         "Salt": 3
       }

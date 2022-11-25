@@ -3,6 +3,7 @@
       "Name": "Ser cheddar Mlekovita",
       "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
       "Description": "Ser cheddar od Mlekovita jest idealnym dodatkiem do pizzy i zapiekanek",
+      "Location": "Sklep",
       "Calories": 371,
       "Fat": 31,
       "Carbohydrates": 0.01,
@@ -15,6 +16,7 @@
         "Name": "Cola",
         "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/cola.jfif",
         "Description": "Coca-Cola to napoj gazowany zawierajacy spora ilosc cukru",
+        "Location": "Sklep",
         "Calories": 42,
         "Fat": 0,
         "Carbohydrates": 10.6,
@@ -27,6 +29,7 @@
         "Name": "Losos atlantycki",
         "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/losos.jfif",
         "Description": "Losos atlantycki filet",
+        "Location": "Supermarkiet",
         "Calories": 171,
         "Fat": 10,
         "Carbohydrates": 0.5,
@@ -34,5 +37,18 @@
         "Fiber": 0,
         "Protein": 20,
         "Salt": 3
+      }
+      {
+        "Name": "McWrap Klasyczny",
+        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/mcwrapk.jfif",
+        "Description": "Mc wrap",
+        "Location": "McDonald",
+        "Calories": 211,
+        "Fat": 8.5,
+        "Carbohydrates": 24,
+        "Sugar": 3.2,
+        "Fiber": 1.4,
+        "Protein": 8.9,
+        "Salt": 1.2
       }
   ]

@@ -23,7 +23,44 @@
         "Sugar": 10.6,
         "Fiber": 0,
         "Protein": 0.01,
-        "Salt": 0.01
+        "Salt": 0.01,
+        "Components":[
+          {
+            "Name": "Woda",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Czysta woda która nadaje się do sporzycia"
+          },
+          {
+            "Name": "Cukier",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Cukier prosty"
+          },
+          {
+            "Name": "Dwutlenek wEgla",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Naturalny konserwant"
+          },
+          {
+            "Name": "Barwnik E 150d",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Barwnik"
+          },
+          {
+            "Name": "Kwas fosforowy",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Naturalny przeciwutleniacz"
+          },
+          {
+            "Name": "Naturalne aromaty",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Naturalne aromaty"
+          },
+          {
+            "Name": "Kofeina",
+            "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
+            "Description": "Kofeina"
+          }
+        ]
       },
       {
         "Name": "Losos atlantycki",

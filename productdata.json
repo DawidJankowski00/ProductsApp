@@ -29,37 +29,44 @@
           {
             "Name": "Woda",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Czysta woda która nadaje się do sporzycia"
+            "Description": "Czysta woda która nadaje się do sporzycia",
+            "Rate": 4
           },
           {
             "Name": "Cukier",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Cukier prosty"
+            "Description": "Cukier prosty",
+            "Rate": 0
           },
           {
-            "Name": "Dwutlenek wEgla",
+            "Name": "Dwutlenek wegla",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Naturalny konserwant"
+            "Description": "Naturalny konserwant",
+            "Rate": 3
           },
           {
             "Name": "Barwnik E 150d",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Barwnik"
+            "Description": "Barwnik",
+            "Rate": 0
           },
           {
             "Name": "Kwas fosforowy",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Naturalny przeciwutleniacz"
+            "Description": "Naturalny przeciwutleniacz",
+            "Rate": 0
           },
           {
             "Name": "Naturalne aromaty",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Naturalne aromaty"
+            "Description": "Naturalne aromaty",
+            "Rate": 2
           },
           {
             "Name": "Kofeina",
             "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/source/serchedar.jfif",
-            "Description": "Kofeina"
+            "Description": "Kofeina",
+            "Rate": 3
           }
         ]
       },

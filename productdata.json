@@ -9,7 +9,8 @@
       "Sugar": 0.01,
       "Fiber": 0,
       "Protein": 25,
-      "Salt": 1.7
+      "Salt": 1.7,
+      "TypeOf":"Normal"
     },
     {
         "Name": "Cola",
@@ -23,6 +24,7 @@
         "Fiber": 0,
         "Protein": 0.01,
         "Salt": 0.01,
+        "TypeOf":"Liquid",
         "Components":[
           {
             "Name": "Woda",
@@ -72,7 +74,8 @@
         "Sugar": 0.5,
         "Fiber": 0,
         "Protein": 20,
-        "Salt": 3
+        "Salt": 3,
+        "TypeOf":"Normal"
       },
       {
         "Name": "McWrap Klasyczny",
@@ -85,6 +88,7 @@
         "Sugar": 3.2,
         "Fiber": 1.4,
         "Protein": 8.9,
-        "Salt": 1.2
+        "Salt": 1.2,
+        "TypeOf":"Normal"
       }
   ]

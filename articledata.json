@@ -6,9 +6,15 @@
         "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/articlesource/piramida.png"
     },
     {
-        "Title": "Piramida żywienia",
+        "Title": "Czy cytryna ma najwiecej witaminy c?",
         "Description": "ToDo",
         "Author": "Admin",
-        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/articlesource/piramida.png"
+        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/articlesource/cytryna.png"
+    },
+    {
+        "Title": "Jasne/ciemne pieczywo",
+        "Description": "ToDo",
+        "Author": "Admin",
+        "Image": "https://raw.githubusercontent.com/DawidJankowski00/ProductsApp/main/articlesource/pieczywo.png"
     }
 ]

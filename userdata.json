@@ -1,0 +1,24 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Dawid",
+    "Email": "Dawid@gmail.com",
+    "Password": "Dawid",
+    "Type": "Admin"
+  },
+  {
+    "Id": 2,
+    "Name": "Kuba",
+    "Email": "Kuba@gmail.com",
+    "Password": "Kuba",
+    "Type": "User"
+  },
+  {
+    "Id": 3,
+    "Name": "Ala",
+    "Email": "Ala@gmail.com",
+    "Password": "Ala",
+    "Type": "User"
+  }
+
+]

@@ -4,7 +4,11 @@
     "Name": "Dawid",
     "Email": "Dawid@gmail.com",
     "Password": "Dawid",
-    "Type": "Admin"
+    "Type": "Admin",
+    "BadComponents":
+    [
+      "Kofeina"
+    ]
   },
   {
     "Id": 2,

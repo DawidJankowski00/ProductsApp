@@ -15,14 +15,22 @@
     "Name": "Kuba",
     "Email": "Kuba@gmail.com",
     "Password": "Kuba",
-    "Type": "User"
+    "Type": "User",
+    "BadComponents":
+    [
+      "Kofeina"
+    ]
   },
   {
     "Id": 3,
     "Name": "Ala",
     "Email": "Ala@gmail.com",
     "Password": "Ala",
-    "Type": "User"
+    "Type": "User",
+    "BadComponents":
+    [
+      "Kofeina"
+    ]
   }
 
 ]

@@ -7,7 +7,9 @@
     "Type": "Admin",
     "BadComponents":
     [
-      "Kofeina"
+      {
+        "Name": "Kofeina"
+      }
     ]
   },
   {
@@ -18,7 +20,10 @@
     "Type": "User",
     "BadComponents":
     [
-      "Barwnik E 150d"
+      
+      {
+        "Name": "Barwnik E 150d"
+      }
     ]
   },
   {
@@ -29,7 +34,9 @@
     "Type": "User",
     "BadComponents":
     [
-      "Kofeina"
+      {
+        "Name": "Kofeina"
+      }
     ]
   }
 
